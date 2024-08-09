@@ -1,6 +1,6 @@
 namespace DesignPatterns.Behavioral.Strategy
 {
-    public class ShoppingCartUnitTests
+    public class WeatherStationUnitTests
     {
         [Fact]
         public void CalculateTotalAmountAfterDiscount_Should_WhenPercentageDiscount()
