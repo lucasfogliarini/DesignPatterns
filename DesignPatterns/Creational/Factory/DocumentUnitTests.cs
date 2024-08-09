@@ -1,6 +1,4 @@
-using DesignPatterns.Factory;
-
-namespace DesignPatterns
+namespace DesignPatterns.Creational.Factory
 {
     public class DocumentUnitTests
     {

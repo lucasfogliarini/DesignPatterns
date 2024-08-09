@@ -1,4 +1,4 @@
-﻿namespace DesignPatterns.Factory
+﻿namespace DesignPatterns.Creational.Factory
 {
     public class WordDocument(string title) : Document(title, DocumentType.Word)
     {
